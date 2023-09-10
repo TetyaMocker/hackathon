@@ -12,7 +12,7 @@
 1. Клонируйте репозиторий
 
 ```
-git clone ссылку 
+git clone https://github.com/TetyaMocker/hackathon.git
 cd проект
 ```
 
